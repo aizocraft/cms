@@ -61,12 +61,12 @@ A modern **Construction Management System** built with the MERN stack that revol
 ### Prerequisites
 - Node.js v18+
 - MongoDB v6+
-- npm v9+ or yarn
+- npm v9+
 
 ```bash
 # Clone repository
 git clone https://github.com/aizocraft/cms.git
-cd construction-management-system
+cd cms
 ```
 
 ### Installation
