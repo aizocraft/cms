@@ -72,7 +72,7 @@ cd construction-management-system
 ### Installation
 ```bash
 # Install server dependencies
-cd server && npm run server
+cd server && npm install
 
 # Install client dependencies
 cd ../client && npm install
@@ -84,10 +84,10 @@ Create `.env` files in both folders using the provided `.env.example` templates.
 ### Running the App
 ```bash
 # Start backend server
-cd server && npm run dev
+cd server && npm run server
 
 # Start frontend development server
-cd ../client && npm start
+cd ../client && npm run dev
 ```
 
 ## 📂 Project Structure
