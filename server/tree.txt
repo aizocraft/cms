@@ -1,0 +1,51 @@
+Microsoft Windows [Version 10.0.19045.5440]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\kiama\Desktop\cms\server>tree /f
+Folder PATH listing for volume Local Disk
+Volume serial number is F07B-0A8C
+C:.
+│   .env
+│   app.js
+│   package-lock.json
+│   package.json
+│   server.js
+│
+├───config
+│       config.js
+│       db.js
+│
+├───controllers
+│       attendanceController.js
+│       authController.js
+│       hardwareController.js
+│       workerController.js
+│
+├───middleware
+│       auth.js
+│       errorHandler.js
+│       notFound.js
+│
+├───models
+│       Attendance.js
+│       Hardware.js
+│       User.js
+│       Worker.js
+│
+├───routes
+│       attendanceRoutes.js
+│       authRoutes.js
+│       hardwareRoutes.js
+│       index.js
+│       workerRoutes.js
+│
+├───utils
+│       ApiError.js
+│
+└───validations
+        authValidation.js
+        hardwareValidation.js
+        workerValidation.js
+
+
+C:\Users\kiama\Desktop\cms\server>
