@@ -16,10 +16,10 @@
 A modern **Construction Management System** built with the MERN stack that revolutionizes construction site operations with real-time tracking and management capabilities.
 
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/yourusername/construction-management-system?style=flat-square&color=blueviolet" alt="Repo Size" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/construction-management-system?style=flat-square&color=success" alt="Last Commit" />
-  <img src="https://img.shields.io/github/issues/yourusername/construction-management-system?style=flat-square" alt="Issues" />
-  <img src="https://img.shields.io/github/stars/yourusername/construction-management-system?style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/aizocraft/cms?style=flat-square&color=blueviolet" alt="Repo Size" />
+  <img src="https://img.shields.io/github/last-commit/aizocraft/cms?style=flat-square&color=success" alt="Last Commit" />
+  <img src="https://img.shields.io/github/issues/aizocraft/cms?style=flat-square" alt="Issues" />
+  <img src="https://img.shields.io/github/stars/aizocraft/cms?style=flat-square" alt="Stars" />
 </div>
 
 ## 🚀 Key Features
